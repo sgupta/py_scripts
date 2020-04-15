@@ -122,7 +122,7 @@ bin  lib  lib64  pyvenv.cfg
 [sgupta3@dockermgr2 mypyenv]$ python --version
 Python 2.7.5
 [sgupta3@dockermgr2 mypyenv]$
-
+```
 ## You can build a package (tar ball) from vitrual environment and share with other users who do not have access to internet or need a ready environment with all dependnecies build
 ```
 [sgupta3@dockermgr2 python]$ cd mypyenv/
